@@ -33,3 +33,5 @@ describe('Assertions', () =>{
         cy.get('input[placeholder="Username"]').should('have.value', 'Admin')
     })
 })
+
+//Alteração no código
